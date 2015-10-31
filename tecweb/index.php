@@ -3,10 +3,10 @@
 
 include "funcoes.php"; 
 
-echo "<link rel='stylesheet' type='text/css' href='estilo.css'/>";
-echo iniciaPagina();
-echo criaCabecalho();
-echo criaMenu();
+	echo "<link rel='stylesheet' type='text/css' href='estilo.css'/>";
+	echo iniciaPagina();
+	echo criaCabecalho();
+	echo criaMenu();
 
 
 echo "<div class='regiao3'>
@@ -18,5 +18,5 @@ echo "<div class='regiao3'>
 </div>
 </html>";
 
-echo finalizaPagina();
+	echo finalizaPagina();
 ?>
