@@ -34,5 +34,5 @@
 	</div>
 	</html>
 <?php
-echo finalizaPagina();
+	echo finalizaPagina();
 ?>
