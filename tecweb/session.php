@@ -1,5 +1,4 @@
 <?php
-function getSession() {
-
-}
+      function getSession() {
+      }
 ?>
